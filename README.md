@@ -28,11 +28,3 @@ git clone https://github.com/KrishPatel-AI/PingPongGame.git
 2.  Use the **'W'** and **'S'** keys to move the left paddle up and down.
 3.  Use the **'Up Arrow'** and **'Down Arrow'** keys to move the right paddle up and down.
 4.  Hit the ball past your opponent to score.
-
-## Contributing
-
-Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to submit pull requests and report issues.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
